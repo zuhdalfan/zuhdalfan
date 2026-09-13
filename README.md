@@ -2,7 +2,7 @@
 
 Building **reliable, low-power firmware** for IoT & Wearable devices — architecture to deployment.
 
-![Experience](https://img.shields.io/badge/experience-5%20years-0F6E56?style=flat-square) ![Focus](https://img.shields.io/badge/focus-IoT%20%26%20Wearables-1D9E75?style=flat-square&labelColor=E1F5EE&color=0F6E56)
+![Experience](https://img.shields.io/badge/experience-5%20years-0F6E56?style=flat-square) ![Focus](https://img.shields.io/badge/focus-IoT%20%26%20Security-1D9E75?style=flat-square&labelColor=E1F5EE&color=0F6E56)
 
 ---
 
